@@ -57,8 +57,13 @@ nav a:active {
 
 #home {
   background-color: cornsilk;
+  
 }
 
 #about img {
   max-height: 50%;
 }
+h1{
+  inset-inline: firebrick;
+}
+
